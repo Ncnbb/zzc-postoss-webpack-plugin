@@ -10,11 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/Ncnbb/zzc-postoss-webpack-plugin.git"
   },
-  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ncnbb/zzc-postoss-webpack-plugin/issues"
   },
+  "author": [
+    {
+      "name": "LLLLLamHo",
+      "email": "linhao.4zhong@163.com",
+      "url": "https://github.com/orgs/Ncnbb/people/LLLLLamHo"
+    }
+  ],
   "homepage": "https://github.com/Ncnbb/zzc-postoss-webpack-plugin#readme",
   "dependencies": {
     "colors": "^1.4.0",
