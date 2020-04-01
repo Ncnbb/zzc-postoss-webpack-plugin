@@ -1,0 +1,23 @@
+{
+  "name": "zzc-postoss-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ncnbb/zzc-postoss-webpack-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ncnbb/zzc-postoss-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/Ncnbb/zzc-postoss-webpack-plugin#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "post-oss": "^0.1.13"
+  }
+}
